@@ -1,0 +1,179 @@
+body{
+    background-color: #E7E4D6;
+}
+nav{
+    background: orange;
+    height: 80px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+label.logo{
+    color: black;
+    font-size: 35px;
+    line-height: 80px;
+    padding: 0 100px;
+    font-weight: bold;
+}
+nav ul{
+    float: right;
+    margin-right: 20px;
+}
+nav ul li{
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+}
+nav ul li a{
+    color: black;
+    font-size: 17px;
+    font-weight: bold;
+    padding: 7px 13px;
+    border-radius: 3px;
+}
+
+active,a:hover{
+    background: #1b9bff;
+    transition: .5s;
+}
+h1{
+    font-size: 25px;
+    font-weight: bolder;
+    margin-top: 120px;
+    margin-left: 134px;
+    font-family: 'Inter', sans-serif;
+}
+h2{
+    font-size: 20px;
+    font-weight: bold;
+    color: red;
+    margin-top: 45px;
+    margin-left: 134px;
+    font-family: 'Inter', sans-serif;
+}
+span{
+    font-size: 20px;
+    font-weight: lighter;
+    color: black;
+    margin-top: 20px;
+    margin-left: 134px;
+    font-family: 'Inter', sans-serif;
+
+}
+h3{
+    font-size: 20px;
+    font-weight: bold;
+    color: red;
+    margin-top: -130px;
+    margin-left: 65%;
+    font-family: 'Inter', sans-serif;
+}
+span.skills{
+    font-size: 20px;
+    font-weight: lighter;
+    color: black;
+    margin-top: 20px;
+    margin-left: 65%;
+    font-family: 'Inter', sans-serif;
+}
+.skills-container {
+    margin-bottom: 10px;
+}
+h4{
+    display: inline-block;
+    margin-left: 134px;
+    font-size: 20px;
+    font-weight: bold;
+    color: red;
+    font-family: 'Inter', sans-serif;
+}
+.cri {
+    width: 150px; /* Adjust the width as needed */
+    height: 150px; /* Adjust the height as needed */
+    border: none;
+    background-color:lightsalmon;
+    cursor: pointer;
+    border-radius: 50%;
+    margin-left: 120px;
+    margin-top: 20px;
+}
+
+.cri i {
+    font-size: inherit;
+}
+.vball {
+    width: 150px; /* Adjust the width as needed */
+    height: 150px; /* Adjust the height as needed */
+    border: none;
+    background-color: cyan;
+    cursor: pointer;
+    border-radius: 50%;
+    margin-left: 60px;
+    margin-top: 20px;
+}
+
+.vball i {
+    font-size: inherit;
+}
+.game {
+    width: 150px; /* Adjust the width as needed */
+    height: 150px; /* Adjust the height as needed */
+    border: none;
+    background-color: greenyellow;
+    cursor: pointer;
+    border-radius: 50%;
+    margin-left: 60px;
+    margin-top: 20px;
+}
+
+.game i {
+    font-size: inherit;
+}
+.footy {
+    width: 150px; /* Adjust the width as needed */
+    height: 150px; /* Adjust the height as needed */
+    border: none;
+    background-color:lightpink;
+    cursor: pointer;
+    border-radius: 50%;
+    margin-left: 120px;
+    margin-top: 60px;
+}
+.tv {
+    width: 150px; /* Adjust the width as needed */
+    height: 150px; /* Adjust the height as needed */
+    border: none;
+    background-color:navajowhite;
+    cursor: pointer;
+    border-radius: 50%;
+    margin-left: 60px;
+    margin-top: 60px;
+}
+.prog {
+    width: 150px; /* Adjust the width as needed */
+    height: 150px; /* Adjust the height as needed */
+    border: none;
+    background-color:yellow;
+    cursor: pointer;
+    border-radius: 50%;
+    margin-left: 60px;
+    margin-top: 60px;
+}
+h5{
+    font-size: 20px;
+    font-weight: bold;
+    color: red;
+    font-family: 'Inter', sans-serif;
+    margin-left: 65%;
+    margin-top: -400px;
+
+}
+span.skill{
+    font-size: 20px;
+    font-weight: lighter;
+    color: black;
+    margin-top: 20px;
+    margin-left: 65%;
+    font-family: 'Inter', sans-serif;
+}
